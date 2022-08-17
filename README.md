@@ -1,2 +1,8 @@
 # Simple-CPP-Injecter
-Just a simple C++ injecter
+
+<------------------->
+
+C++ inject bla bla
+p-p
+
+<------------------->
